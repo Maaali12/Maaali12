@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Maaali12
+- 👀 I’m interested in Python and GLua
+- 🌱 I’m currently learning Python, Glua
+- 📫 How to reach me on Discord!
