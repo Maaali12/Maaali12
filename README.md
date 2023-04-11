@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Maaali12
-- 👀 I’m interested in Python and GLua
+- 👀 I’m interested in Python, GLua and C#
 - 🌱 I’m currently learning Glua
-- 📫 How to reach me on Discord!
+- 📫 How to reach me? On Discord! Maaali#1785
