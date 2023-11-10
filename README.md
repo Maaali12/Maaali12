@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 🤝 I need **a S&Box key**
-
-- 📫 How to reach me **Discord: Maaali#1785**
+- 📫 How to reach me **Discord: maaali**
 
 - ⚡ Fun fact **cheese**
 
