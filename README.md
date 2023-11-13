@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **glua stuff**
 
-- 🌱 I’m currently learning **C#**, **C++**
+- 🌱 I’m currently learning **C#**, **C++** and **Python**
 
 - 📫 How to reach me **Discord: maaali**
 
