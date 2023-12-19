@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maaali12&label=Profile%20views&color=0e75b6&style=flat" alt="maaali12" /> </p>
 
-- 🔭 I’m currently working on **glua stuff**
+- 🔭 I’m currently working on **S&box**
 
 - 🌱 I’m currently learning **C#**, **C++** and **Python**
 
