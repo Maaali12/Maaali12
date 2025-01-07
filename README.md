@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, my name is Max/Mali. I am currently an apprentice software developer at Heinrich Heine University Düsseldorf. I develop AI supported applications in Python. I am also currently learning C++.<br>In my spare time I am learning C# for game development with Source 2 via s&Box. I also like modelling objects for 3D printing in the software Blender
+Hey, my name is Max/Mali. I am currently an apprentice software developer at Heinrich Heine University Düsseldorf. I develop AI supported applications in Python. I am also currently learning C++ and Lua.<br> I also like modelling objects for 3D printing in the software Blender
 
 
 # 💻 Tech Stack:
